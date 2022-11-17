@@ -1,0 +1,6 @@
+member_ID,first_name,last_name,username,password,list_of_bookings
+5879,Jones,Ray,jones5879,ray8382,[]
+4380,James,Bruce,james4380,bruce9291,[]
+8766,Laila,Sameer,laila8766,sameer0392,[]
+9090,Zaid,Ibrahim,zaid9090,ibrahim2121,[]
+2277,Rose,Bill,rose2277,bill9381,[]
